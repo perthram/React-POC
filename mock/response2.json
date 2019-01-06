@@ -1,0 +1,15 @@
+{
+  "headers": ["PRODUCT", "VARIATION", "PRODUCT CODE"],
+  "records": {
+    "12345": [
+      ["Laptop", "Multiple", "qw123OP"],
+      ["Tablet", "Multiple", "we543y"],
+      ["Phone", "Multiple", "psd86t"]
+    ],
+    "45678": [["Tablet", "Single", "we543y"], ["Phone", "Multiple", "psd86t"]],
+    "91011": [
+      ["Laptop", "Multiple", "qw123OP"],
+      ["Phone", "Multiple", "psd86t"]
+    ]
+  }
+}

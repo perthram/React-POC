@@ -1,0 +1,8 @@
+{
+  "headers": ["COMPANY", "ID", "OS"],
+  "records": [
+    ["Apple", "12345", "ios"],
+    ["Google", "45678", "andorid"],
+    ["MicroSoft", "91011", "windows"]
+  ]
+}

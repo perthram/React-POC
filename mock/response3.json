@@ -1,0 +1,25 @@
+{
+  "headers": ["NAME", "STORAGE", "CAMERA"],
+  "records": {
+    "12345": {
+      "qw123OP": [["MacBook", "128GB", "5MP"], ["MacBookPro", "256GB", "12MP"]],
+      "we543y": [["Ipad", "64GB", "8MP"], ["Ipad Mini", "16GB", "5MP"]],
+      "psd86t": [["Iphone X", "64GB", "12MP"], ["Iphone 6s", "32GB", "8MP"]]
+    },
+    "45678": {
+      "we543y": [["Samsung Galaxy", "16GB", "12MP"]],
+      "psd86t": [
+        ["Pixel 2", "64GB", "12MP"],
+        ["Pixel 3", "16GB", "16MP"],
+        ["Nexus", "32GB", "8MP"]
+      ]
+    },
+    "91011": {
+      "qw123OP": [
+        ["HP Notebook", "320GB", "5MP"],
+        ["DELL Inspiron", "540GB", "2MP"]
+      ],
+      "psd86t": [["Lumia 550", "32GB", "12MP"], ["Nokia 6", "16GB", "20MP"]]
+    }
+  }
+}
